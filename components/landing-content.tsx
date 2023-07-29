@@ -2,30 +2,30 @@
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-const testimonials = [
+const use cases = [
   {
-    name: "Joel",
-    avatar: "J",
-    title: "Software Engineer",
-    description: "This is the best application I've ever used!",
+    name: "Encyclopedia",
+    avatar: "📚",
+    title: "Research any question",
+    description: "e.g., how many miles from the Earth to the Moon?",
   },
   {
-    name: "Antonio",
-    avatar: "A",
-    title: "Designer",
-    description: "I use this daily for generating new photos!",
+    name: "Find Images",
+    avatar: "🖼️",
+    title: "Generate Images from Text",
+    description: "e.g., show me two horses running through a field",
   },
   {
-    name: "Mark",
-    avatar: "M",
-    title: "CEO",
-    description: "This app has changed my life, cannot imagine working without it!",
+    name: "Generate videos",
+    avatar: "🎥",
+    title: "Generate a video",
+    description: "e.g., create a video of birds flying over a blue lake",
   },
   {
-    name: "Mary",
-    avatar: "M",
-    title: "CFO",
-    description: "The best in class, definitely worth the premium subscription!",
+    name: "Create music",
+    avatar: "🎼",
+    title: "Create music",
+    description: "e.g., generate a short clip of a piano playing",
   },
 ];
 
